@@ -1,15 +1,14 @@
 .Numbers {
     background-color: #ac5353;
     font-family: sans-serif;
-    font-size: 60px
 }
 
-.Numbers.Three,#Nr4 {
-    font-size: 85px;
+.Adjust-Size {
+    font-size: 24px;
 }
 
 #Nr2 {
-    font-size: 90px;
+    font-size: 36px;
     color: blue;
 }
 
