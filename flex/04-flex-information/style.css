@@ -24,3 +24,19 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.hero-header {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  padding: 20px;
+}
+
+.inside-items {
+  max-width: 200px;
+  text-align: center;
+}
